@@ -1,7 +1,7 @@
 
 # Java Apache NetBeans IDE 22
 
-![banner](Web Jib/f298dda3-0b10-41d9-add2-0be01cbb3786.jpg)
+![banner](WebJib/f298dda3-0b10-41d9-add2-0be01cbb3786.jpg)
 
 # space invader
 # author: 
